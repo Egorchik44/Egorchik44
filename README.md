@@ -8,9 +8,9 @@
 <p align='center'>
    <a href="https://discordapp.com/users/Egor_Kostylev#4663/ "><img height="30" src="https://github.com/Egorchik44/octocat/blob/main/Logo/Discord.png" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
 <a href="https://vk.com/gydis"><img height="30" src="https://deskmed.ru/wp-content/files/photo-1-1536x1536.png"></a>&nbsp;&nbsp;
-<a href="https://hh.ru/applicant/resumes/view?resume=2e28fb37ff0be767130039ed1f6d61316d3363"><img height="45" src="https://cdn.mypanel.link/do7r0s/rk64zfon6r6gde4c.png"></a>&nbsp;&nbsp;
+<a href="https://t.me/ReallyEgorchik"><img height="45" src="https://cdn.mypanel.link/do7r0s/rk64zfon6r6gde4c.png"></a>&nbsp;&nbsp;
 <a href="https://habr.com/ru/users/Egorchik44/"><img height="30" src="https://github.com/Egorchik44/octocat/blob/main/Logo/Habr.png" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
+ <a href="mailto:southjosh42@gmail.com"><img height="30" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
  </p>
 
 
@@ -44,8 +44,10 @@
 
  - Все для того, чтобы жизнь была лучше.
  
+ - Резюме на <a href="https://hh.ru/applicant/resumes/view?resume=2e28fb37ff0be767130039ed1f6d61316d3363">hh.ru</a>
 
  
+
 
  
 ### - Languages and Tools...
@@ -53,8 +55,14 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://github.com/Egorchik44/octocat/blob/main/Logo/visualstudio.png" alt="c++" height="33" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/Egorchik44/octocat/blob/main/Logo/visualstudio.png" alt="c++" height="33" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png" alt="visualstudio" height="33" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse.png?raw=true" alt="eclipse" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png?raw=true" alt="java" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_intellij.png?raw=true" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/pc.png?raw=true" alt="pc" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png?raw=true" alt="telegram" style="vertical-align:top; margin:4px">   
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png?raw=true" alt="html" style="vertical-align:top; margin:4px"> 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
@@ -62,7 +70,7 @@
 
 
 
-
+[![codewars](https://www.codewars.com/users/Egorchik44/badges/small)](https://www.codewars.com/users/Egorchik44)
 
 
 
