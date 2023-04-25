@@ -6,9 +6,9 @@
 
 <p align='center'>
    <a href="https://discordapp.com/users/Egor_Kostylev#4663/ "><img height="30" src="https://github.com/Egorchik44/octocat/blob/main/Logo/Discord.png" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
-<a href="https://vk.com/gydis"><img height="30" src="https://deskmed.ru/wp-content/files/photo-1-1536x1536.png"></a>&nbsp;&nbsp;
+<a href="https://vk.com/gydis"><img height="37.5" src="https://deskmed.ru/wp-content/files/photo-1-1536x1536.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/ReallyEgorchik"><img height="45" src="https://cdn.mypanel.link/do7r0s/rk64zfon6r6gde4c.png"></a>&nbsp;&nbsp;
-<a href="https://habr.com/ru/users/Egorchik44/"><img height="30" src="https://github.com/Egorchik44/octocat/blob/main/Logo/Habr.png" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
+<a href="https://habr.com/ru/users/Egorchik44/"><img height="37.5" src="https://github.com/Egorchik44/octocat/blob/main/Logo/Habr.png" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
  <a href="mailto:southjosh42@gmail.com"><img height="30" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
  </p>
 
