@@ -1,79 +1,131 @@
 <div align="center">
-   <h1>Привет, меня зовут  <a href="https://vk.com/gydis">Egor</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
- 
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">
+  <h1>Привет, меня зовут <a href="https://vk.com/gydis">Егор</a></h1>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+разработчик;Творческая+личность;Всегда+учусь+новому&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
+  </p>
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-<p align='center'>
-   <a href="https://discordapp.com/users/Egor_Kostylev#4663/ "><img height="30" src="https://github.com/Egorchik44/octocat/blob/main/Logo/Discord.png" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
-<a href="https://vk.com/gydis"><img height="37.5" src="https://deskmed.ru/wp-content/files/photo-1-1536x1536.png"></a>&nbsp;&nbsp;
-<a href="https://t.me/ReallyEgorchik"><img height="45" src="https://cdn.mypanel.link/do7r0s/rk64zfon6r6gde4c.png"></a>&nbsp;&nbsp;
-<a href="https://habr.com/ru/users/Egorchik44/"><img height="37.5" src="https://github.com/Egorchik44/octocat/blob/main/Logo/Habr.png" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
- <a href="mailto:southjosh42@gmail.com"><img height="30" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="Image description" style="border-radius: 50%;"></a>&nbsp;&nbsp;
- </p>
-
-
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Egor_Kostylev | 💻 С++ Developer | 🛸 РФ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <img src="https://komarev.com/ghpvc/?username=Egorchik44&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 
+### 👨‍💻 Обо мне:
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
- 
- <h5 align="center">
-   <i>⚡️Люблю творчество и творческих людей⚡️</i>
-  </h5>
- 
- 
-<br />
+В свои 21 я исследую удивительный мир технологий и творчества. Для меня программирование — это не просто код, а инструмент для создания решений, которые делают жизнь людей лучше.
 
-<p align="center">
-  <h3> Мне 20 и я C++ разработчик.</h3>
-</p>
+- 🔭 Специализируюсь на backend-разработке
+- 🌱 Постоянно изучаю новые технологии
+- 💡 Стремлюсь к элегантным решениям сложных задач
+- 🤝 Открыт к сотрудничеству в интересных проектах
 
- -  Студент С++ Разработчик.
- 
- - <i>использую MS Visual Studio, Eclipse и другие.</i>
- 
- - Занимаюсь бэкенд-разработкой и всего по немногу.
- 
- - Увлекаюсь видеосъемкой и активным образом жизни.
+<br clear="right"/>
 
- - Все для того, чтобы жизнь была лучше.
- 
- - Резюме на <a href="https://hh.ru/applicant/resumes/view?resume=2e28fb37ff0be767130039ed1f6d61316d3363">hh.ru</a>
+---
 
- 
+### 🛠 Технический стек:
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</div>
 
- 
-### - Languages and Tools...
+<details>
+<summary>Развернуть 🔧</summary>
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+#### Языки программирования:
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### Web-технологии:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Инструменты разработки:
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+</details>
+
+---
+
+### 🎯 Текущие цели:
+
+- 📚 Углубление знаний в C++ и Python
+- 🌐 Изучение современных фреймворков
+- 🤝 Участие в open-source проектах
+- 📝 Ведение технического блога
+
+---
+### 🏆 Достижения и развитие:
+
+<div align="center">
   
-   <img src="https://github.com/Egorchik44/octocat/blob/main/Logo/visualstudio.png" alt="c++" height="33" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png" alt="visualstudio" height="33" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse.png?raw=true" alt="eclipse" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png?raw=true" alt="java" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_intellij.png?raw=true" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/pc.png?raw=true" alt="pc" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png?raw=true" alt="telegram" style="vertical-align:top; margin:4px">   
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png?raw=true" alt="html" style="vertical-align:top; margin:4px"> 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+[![CodeWars](https://www.codewars.com/users/Egorchik44/badges/large)](https://www.codewars.com/users/Egorchik44)
 
+</div>
 
+#### В процессе изучения:
+```javascript
+const learningPath = {
+    currentFocus: [
+        "Алгоритмы и структуры данных",
+        "Паттерны проектирования",
+        "Clean Architecture"
+    ],
+    upcomingTopics: [
+        "Docker",
+        "CI/CD практики",
+        "Микросервисная архитектура"
+    ]
+}
+```
 
+#### Профессиональные интересы:
+- 🔍 Оптимизация производительности
+- 🛠 Разработка масштабируемых решений
+- 🔐 Безопасность приложений
+- 📊 Анализ и обработка данных
+---
+### 📚 Проекты в разработке:
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450"/>
+</div>
 
-[![codewars](https://www.codewars.com/users/Egorchik44/badges/small)](https://www.codewars.com/users/Egorchik44)
+> *"В разработке не важно, сколько строк кода ты написал сегодня. Важно, какую проблему ты решил."*
 
+---
 
+### 📫 Связаться со мной:
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Stay+awesome+!)](https://git.io/typing-svg)
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aka_gydis)
+[![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/gydis)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:southjosh42@gmail.com)
+
+</div>
+
+---
+
+### 💼 Портфолио:
+- [Моё резюме на HH.ru](https://hh.ru/applicant/resumes/view?resume=2e28fb37ff0be767130039ed1f6d61316d3363)
+- [Мои проекты на GitHub](https://github.com/Egorchik44?tab=repositories)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Спасибо+за+внимание!;Давайте+создавать+что-то+крутое+вместе!&font=Fira%20Code&center=true&width=520&height=45&color=36BCF7&vCenter=true&size=22">
+</div>
+
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
